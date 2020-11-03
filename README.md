@@ -1,3 +1,3 @@
 # To-Do-List
 
-> You can see the hole project and code on master branch
+> You can see the project files and code on master branch
